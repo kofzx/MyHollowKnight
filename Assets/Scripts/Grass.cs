@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class Grass : MonoBehaviour
 {
+    public ParticleSystem grassCutOffEffect;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -18,6 +20,6 @@ public class Grass : MonoBehaviour
 
     public void CutOff()
     {
-
+        grassCutOffEffect.Play();
     }
 }
