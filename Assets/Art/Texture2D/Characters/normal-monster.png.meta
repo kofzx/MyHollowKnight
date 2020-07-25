@@ -1,0 +1,1292 @@
+fileFormatVersion: 2
+guid: 6b3b8a13928cbd6469756b549b5c8879
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 624187541203229583
+    second: normal-monster_0
+  - first:
+      213: 1769620179676375944
+    second: normal-monster_1
+  - first:
+      213: 5281943139190764402
+    second: normal-monster_2
+  - first:
+      213: 5264183644696652822
+    second: normal-monster_3
+  - first:
+      213: 2365005962147728221
+    second: normal-monster_4
+  - first:
+      213: 8840270083975640706
+    second: normal-monster_5
+  - first:
+      213: 1243841807916491499
+    second: normal-monster_6
+  - first:
+      213: 4861708479470947582
+    second: normal-monster_7
+  - first:
+      213: 2662656493612712399
+    second: normal-monster_8
+  - first:
+      213: -8127994086392737450
+    second: normal-monster_9
+  - first:
+      213: -6073103146378777640
+    second: normal-monster_10
+  - first:
+      213: -8990323625873449363
+    second: normal-monster_11
+  - first:
+      213: -4539464433716833596
+    second: normal-monster_12
+  - first:
+      213: -3570868258034716283
+    second: normal-monster_13
+  - first:
+      213: 2308416631289517038
+    second: normal-monster_14
+  - first:
+      213: 3488192527935240852
+    second: normal-monster_15
+  - first:
+      213: 2655283812142206189
+    second: normal-monster_16
+  - first:
+      213: 4418997099967831114
+    second: normal-monster_17
+  - first:
+      213: 4941351962963138579
+    second: normal-monster_18
+  - first:
+      213: 5405379194158629148
+    second: normal-monster_19
+  - first:
+      213: 2740129584889437261
+    second: normal-monster_20
+  - first:
+      213: -1024774008649110945
+    second: normal-monster_21
+  - first:
+      213: 6626884866329189703
+    second: normal-monster_22
+  - first:
+      213: -3870650367031953013
+    second: normal-monster_23
+  - first:
+      213: -840245241027398089
+    second: normal-monster_24
+  - first:
+      213: -4247431497604957296
+    second: normal-monster_25
+  - first:
+      213: 8667388130786398889
+    second: normal-monster_26
+  - first:
+      213: 6592540574613723818
+    second: normal-monster_27
+  - first:
+      213: 7172703694410468000
+    second: normal-monster_28
+  - first:
+      213: 7513942599517397020
+    second: normal-monster_29
+  - first:
+      213: -919529939491848093
+    second: normal-monster_30
+  - first:
+      213: -2894134256861297298
+    second: normal-monster_31
+  - first:
+      213: -6283631278129153936
+    second: normal-monster_32
+  - first:
+      213: -912509230462955271
+    second: normal-monster_33
+  - first:
+      213: 1697010726997113391
+    second: normal-monster_34
+  - first:
+      213: -4323294558189075503
+    second: normal-monster_35
+  - first:
+      213: -5224577588374988721
+    second: normal-monster_36
+  - first:
+      213: 4103345001371636631
+    second: normal-monster_37
+  - first:
+      213: -1812331190874669014
+    second: normal-monster_38
+  - first:
+      213: 744241625248865545
+    second: normal-monster_39
+  - first:
+      213: 5664553226389765495
+    second: normal-monster_40
+  - first:
+      213: 8242146938597397427
+    second: normal-monster_41
+  - first:
+      213: 6195517129149097899
+    second: normal-monster_42
+  - first:
+      213: 6695536862785755888
+    second: normal-monster_43
+  - first:
+      213: 8737935818638248769
+    second: normal-monster_44
+  - first:
+      213: 3228868781207700472
+    second: normal-monster_45
+  - first:
+      213: -1603971894522149789
+    second: normal-monster_46
+  - first:
+      213: 5539889369955954344
+    second: normal-monster_47
+  - first:
+      213: -402471610391935003
+    second: normal-monster_48
+  - first:
+      213: -1710590237422640949
+    second: normal-monster_49
+  - first:
+      213: -459344808835924143
+    second: normal-monster_50
+  - first:
+      213: 3661642987033203829
+    second: normal-monster_51
+  - first:
+      213: 7967450192009874262
+    second: normal-monster_52
+  - first:
+      213: -1756179371828036394
+    second: normal-monster_53
+  - first:
+      213: -8427226547224248139
+    second: normal-monster_54
+  - first:
+      213: 1868296326574374840
+    second: normal-monster_55
+  - first:
+      213: -7408169944503650949
+    second: normal-monster_56
+  - first:
+      213: 4369948027414143022
+    second: normal-monster_57
+  - first:
+      213: -1272568091439542145
+    second: normal-monster_58
+  - first:
+      213: -8414967762402374001
+    second: normal-monster_59
+  - first:
+      213: -1791198593048979879
+    second: normal-monster_60
+  - first:
+      213: 5282256255660122094
+    second: normal-monster_61
+  - first:
+      213: -179497239766012695
+    second: normal-monster_62
+  - first:
+      213: -7997472082187078183
+    second: normal-monster_63
+  - first:
+      213: -4513986189400049595
+    second: normal-monster_64
+  - first:
+      213: -4074710422138844311
+    second: normal-monster_65
+  - first:
+      213: 3395292629639818838
+    second: normal-monster_66
+  - first:
+      213: 5029261439917111050
+    second: normal-monster_67
+  - first:
+      213: -4436882303573172775
+    second: normal-monster_68
+  - first:
+      213: -2637097215389568616
+    second: normal-monster_69
+  - first:
+      213: 8236071922966150521
+    second: normal-monster_70
+  - first:
+      213: -487394015909783161
+    second: normal-monster_71
+  - first:
+      213: -2834990977450699491
+    second: normal-monster_72
+  - first:
+      213: -396996190595190877
+    second: normal-monster_73
+  - first:
+      213: 6306957349443548771
+    second: normal-monster_74
+  - first:
+      213: 6216768982926394538
+    second: normal-monster_75
+  - first:
+      213: 6904367348114089083
+    second: normal-monster_76
+  - first:
+      213: 8955465683677205625
+    second: normal-monster_77
+  - first:
+      213: -2520902319829584800
+    second: normal-monster_78
+  - first:
+      213: 3306607284337242265
+    second: normal-monster_79
+  - first:
+      213: 7823732518825667551
+    second: normal-monster_80
+  - first:
+      213: -8510734681148135150
+    second: normal-monster_81
+  - first:
+      213: -4521919986346376285
+    second: normal-monster_82
+  - first:
+      213: -1153094797193242407
+    second: normal-monster_83
+  - first:
+      213: 8443720677008885379
+    second: normal-monster_84
+  - first:
+      213: 5630042743180485253
+    second: normal-monster_85
+  - first:
+      213: 7714058945787508873
+    second: normal-monster_86
+  - first:
+      213: -2191734035100147544
+    second: normal-monster_87
+  - first:
+      213: -468867268317492302
+    second: normal-monster_88
+  - first:
+      213: 3181660969331326411
+    second: normal-monster_89
+  - first:
+      213: 5464924924285457565
+    second: normal-monster_90
+  - first:
+      213: 5566865038913168123
+    second: normal-monster_91
+  - first:
+      213: 3197991051859264280
+    second: normal-monster_92
+  - first:
+      213: -1383308597399142934
+    second: normal-monster_93
+  - first:
+      213: -5086263558255672057
+    second: normal-monster_94
+  - first:
+      213: -7234344902027388275
+    second: normal-monster_95
+  - first:
+      213: -6816297292909293865
+    second: normal-monster_96
+  - first:
+      213: 2080722965281176678
+    second: normal-monster_97
+  - first:
+      213: -4421753907350407321
+    second: normal-monster_98
+  - first:
+      213: 2927147211093535143
+    second: normal-monster_99
+  - first:
+      213: -3718872156994944171
+    second: normal-monster_100
+  - first:
+      213: -3816456628720249934
+    second: normal-monster_101
+  - first:
+      213: 5036821617778588910
+    second: normal-monster_102
+  - first:
+      213: 5283913241032397213
+    second: normal-monster_103
+  - first:
+      213: 8340425886685024975
+    second: normal-monster_104
+  - first:
+      213: 75688671524056288
+    second: normal-monster_105
+  - first:
+      213: -7268504105603270559
+    second: normal-monster_106
+  - first:
+      213: 7789010899159281034
+    second: normal-monster_107
+  - first:
+      213: 1214632381431069643
+    second: normal-monster_108
+  - first:
+      213: -4318649366770205199
+    second: normal-monster_109
+  - first:
+      213: -4776500404938181926
+    second: normal-monster_110
+  - first:
+      213: -6807089556029011878
+    second: normal-monster_111
+  - first:
+      213: 4372606910631181303
+    second: normal-monster_112
+  - first:
+      213: 5697067761663400453
+    second: normal-monster_113
+  - first:
+      213: -3613135668156156786
+    second: normal-monster_114
+  - first:
+      213: 1728405386596389730
+    second: normal-monster_115
+  - first:
+      213: 2180376571115100751
+    second: normal-monster_116
+  - first:
+      213: 4836752377365400836
+    second: normal-monster_117
+  - first:
+      213: -6886154035519859947
+    second: normal-monster_118
+  - first:
+      213: -9065425552328919870
+    second: normal-monster_119
+  - first:
+      213: -8787291843576022220
+    second: normal-monster_120
+  - first:
+      213: 1612059345112146554
+    second: normal-monster_121
+  - first:
+      213: -5542772407379953698
+    second: normal-monster_122
+  - first:
+      213: -1083981274005771188
+    second: normal-monster_123
+  - first:
+      213: -8369022927739206860
+    second: normal-monster_124
+  - first:
+      213: 5185051785751644361
+    second: normal-monster_125
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: normal-monster_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 857
+        width: 120
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b94aaf24f89a800800000000000000
+      internalID: 624187541203229583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-monster_1
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 883
+        width: 119
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b29f47d24fe8810800000000000000
+      internalID: 1769620179676375944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-monster_2
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 863
+        width: 122
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273f647dc4b3d4940800000000000000
+      internalID: 5281943139190764402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-monster_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 750
+        width: 127
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ca09e42232e0940800000000000000
+      internalID: 5264183644696652822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-monster_4
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 771
+        width: 120
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b0f79646032d020800000000000000
+      internalID: 2365005962147728221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-monster_5
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 646
+        width: 128
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28671e9bdc2feaa70800000000000000
+      internalID: 8840270083975640706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-monster_6
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 535
+        width: 130
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be264adb883034110800000000000000
+      internalID: 1243841807916491499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-monster_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 534
+        width: 128
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efcce588a12487340800000000000000
+      internalID: 4861708479470947582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-monster_8
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 536
+        width: 129
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc14cac39f7a3f420800000000000000
+      internalID: 2662656493612712399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-monster_9
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 507
+        width: 119
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651d5104170933f80800000000000000
+      internalID: -8127994086392737450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-monster_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 427
+        width: 131
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db29c37dd008bba0800000000000000
+      internalID: -6073103146378777640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-monster_11
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 428
+        width: 133
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ed2088b44fb3380800000000000000
+      internalID: -8990323625873449363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-monster_12
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 432
+        width: 129
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2d9cd06259001c0800000000000000
+      internalID: -4539464433716833596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-monster_13
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 259
+        width: 113
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5817f141d3ab17ec0800000000000000
+      internalID: -3570868258034716283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-monster_14
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 212
+        width: 127
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee39d9512b4290020800000000000000
+      internalID: 2308416631289517038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-monster_15
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 316
+        width: 132
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a70c77f9c886030800000000000000
+      internalID: 3488192527935240852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-monster_16
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 224
+        width: 132
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decc4901f8679d420800000000000000
+      internalID: 2655283812142206189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-monster_17
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 208
+        width: 132
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c5017137e635d30800000000000000
+      internalID: 4418997099967831114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-monster_18
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 118
+        width: 131
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318d89e0e65339440800000000000000
+      internalID: 4941351962963138579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-monster_19
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 132
+        width: 103
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11cc18fcb3c30b40800000000000000
+      internalID: 5405379194158629148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-monster_20
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 123
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c9fd1f655e60620800000000000000
+      internalID: 2740129584889437261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-monster_21
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 104
+        width: 133
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5aaa67f77547c1f0800000000000000
+      internalID: -1024774008649110945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-monster_22
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 0
+        width: 99
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d96f8dcac67fb50800000000000000
+      internalID: 6626884866329189703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-monster_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 140
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89335fafffa84ac0800000000000000
+      internalID: -3870650367031953013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-monster_24
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 46
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7367954b769d654f0800000000000000
+      internalID: -840245241027398089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-monster_25
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 642
+        width: 119
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b73798e871e05c0800000000000000
+      internalID: -4247431497604957296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-monster_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 318
+        width: 132
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2d5f9459fb84870800000000000000
+      internalID: 8667388130786398889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-monster_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 105
+        width: 135
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa533d49b86d7b50800000000000000
+      internalID: 6592540574613723818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-monster_28
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 2
+        width: 136
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aac778e1009a8360800000000000000
+      internalID: 7172703694410468000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-monster_29
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 327
+        width: 129
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10e8e2dbf2e64860800000000000000
+      internalID: 7513942599517397020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-monster_30
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 644
+        width: 127
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3608044546c2d33f0800000000000000
+      internalID: -919529939491848093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-monster_31
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 758
+        width: 123
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e654e772a38f5d7d0800000000000000
+      internalID: -2894134256861297298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-monster_32
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 758
+        width: 123
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078f39705ae0cc8a0800000000000000
+      internalID: -6283631278129153936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-monster_33
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 867
+        width: 116
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f09df780bd1653f0800000000000000
+      internalID: -912509230462955271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-monster_34
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 884
+        width: 119
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ab0bad34efc8710800000000000000
+      internalID: 1697010726997113391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-monster_35
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 752
+        width: 125
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3c2cf41829004c0800000000000000
+      internalID: -4323294558189075503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-monster_36
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 628
+        width: 120
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4811774d529e77b0800000000000000
+      internalID: -5224577588374988721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-monster_37
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 387
+        width: 120
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79391adc98202f830800000000000000
+      internalID: 4103345001371636631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
