@@ -4,7 +4,8 @@ using UnityEngine;
 
 public class LittleSisterAttack : MonoBehaviour
 {
-    public int damage;
+    [SerializeField] private float attackDamage;
+    public LittleSister littleSister;
     public float attackTime;
 
     private SpriteRenderer attackEffect;
@@ -60,7 +61,23 @@ public class LittleSisterAttack : MonoBehaviour
 
         if (grass != null)
         {
+            // todo
             grass.CutOff();
+        }
+
+        if (other.gameObject.tag == "Enemy")
+        {
+            ShowAttackEffect();
+            littleSister.ReactionForce(1f);
+
+            // 两点之间的向量的分量与目标点相加，即可得到击退效果
+            Vector2 difference = other.transform.position - transform.position;
+            other.transform.position = new Vector2(
+                other.transform.position.x + difference.x,    
+                other.transform.position.y + difference.y    
+            );
+
+            other.gameObject.GetComponent<Bee>().TakeDamage(attackDamage);
         }
     }
 }
