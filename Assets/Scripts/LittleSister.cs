@@ -10,6 +10,7 @@ public class LittleSister : MonoBehaviour
     public LayerMask whatIsGround;
     public PhysicsMaterial2D p1;    // 有摩擦力的
     public PhysicsMaterial2D p2;    // 无摩擦力的
+    public GameObject projectilePrefab;
     public GameObject life1;
     public GameObject life2;
     public GameObject life3;
@@ -57,6 +58,12 @@ public class LittleSister : MonoBehaviour
         {
             jump = true;
             animator.SetBool("IsJumping", true);
+        }
+
+        // 攻击
+        if (Input.GetButtonDown("Attack"))
+        {
+            Launch();
         }
 
         // 无敌时间
@@ -141,6 +148,22 @@ public class LittleSister : MonoBehaviour
         float directionVelocity = facingRight ? -v : v;
         x = Mathf.SmoothDamp(x, directionVelocity * runSpeed * Time.deltaTime, ref xVelocity, 0.05f);
         transform.position = new Vector3(x, y, z);
+    }
+
+    void Launch()
+    {
+        GameObject projectileObject = Instantiate(projectilePrefab, rigidbody2d.position, Quaternion.identity);
+        Vector2 direction = new Vector2(facingRight ? 1 : -1, 0);
+
+        if (!facingRight)
+        {
+            Vector3 theScale = projectileObject.transform.localScale;
+            theScale.x *= -1;
+            projectileObject.transform.localScale = theScale;
+        }
+
+        Projectile projectile = projectileObject.GetComponent<Projectile>();
+        projectile.Launch(direction, 1000);
     }
 
     public void ChangeHealth(int amount)

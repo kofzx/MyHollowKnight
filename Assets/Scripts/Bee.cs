@@ -13,7 +13,9 @@ public class Bee : MonoBehaviour
     private SpriteRenderer sr;
     public float hurtLength;    // 效果持续多久
     private float hurtCounter;  // 计数器
+    private bool facingRight = false;
 
+    const int VIEW_DISTANCE = 15;   // 怪物的可视视野
 
     // Start is called before the first frame update
     void Start()
@@ -37,10 +39,35 @@ public class Bee : MonoBehaviour
         }
     }
 
+    private void Flip()
+    {
+        facingRight = !facingRight;
+
+        Vector3 theScale = transform.localScale;
+        theScale.x *= -1;
+        transform.localScale = theScale;
+    }
+
     private void FollowPlayer()
     {
-        // 怪物跟随角色
-        transform.position = Vector2.MoveTowards(transform.position, target.position, moveSpeed * Time.deltaTime);
+        Vector3 deltaDistance = transform.position - target.position;
+
+        // 出现视野才追踪角色
+        if (Mathf.Abs(deltaDistance.x) < VIEW_DISTANCE)
+        {
+            // 怪物跟随角色
+            transform.position = Vector2.MoveTowards(transform.position, target.position, moveSpeed * Time.deltaTime);
+            Vector2 difference = target.position - transform.position;
+
+            if (difference.x > 0 && !facingRight)
+            {
+                Flip();
+            }
+            else if (difference.x < 0 && facingRight)
+            {
+                Flip();
+            }
+        }
     }
 
     public void TakeDamage(float _amount)

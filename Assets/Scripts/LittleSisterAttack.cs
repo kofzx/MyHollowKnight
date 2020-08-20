@@ -57,13 +57,6 @@ public class LittleSisterAttack : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        Grass grass = other.GetComponent<Grass>();
-
-        if (grass != null)
-        {
-            // todo
-            grass.CutOff();
-        }
 
         if (other.gameObject.tag == "Enemy")
         {
