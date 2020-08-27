@@ -380,6 +380,81 @@ TextureImporter:
   - first:
       213: 5185051785751644361
     second: normal-monster_125
+  - first:
+      213: 441621077418285626
+    second: normal-monster_0
+  - first:
+      213: 8007656183075253761
+    second: normal-monster_1
+  - first:
+      213: 4083194141822296212
+    second: normal-monster_2
+  - first:
+      213: 237233458945738100
+    second: normal-monster_3
+  - first:
+      213: 6453117158366030018
+    second: normal-monster_4
+  - first:
+      213: 8860704672468560240
+    second: normal-monster_5
+  - first:
+      213: 8271360679129973774
+    second: normal-monster_6
+  - first:
+      213: -2147986724019436546
+    second: normal-monster_7
+  - first:
+      213: 531628307660252990
+    second: normal-monster_8
+  - first:
+      213: -6288985672895628750
+    second: normal-monster_9
+  - first:
+      213: -6469157722777912924
+    second: normal-monster_10
+  - first:
+      213: 5749222738022145502
+    second: normal-monster_11
+  - first:
+      213: -1409470719454287778
+    second: normal-monster_12
+  - first:
+      213: 1726979828182534861
+    second: normal-monster_13
+  - first:
+      213: 8727619478589467931
+    second: normal-monster_14
+  - first:
+      213: 1897905491853899264
+    second: normal-monster_15
+  - first:
+      213: 8304283384851017743
+    second: normal-monster_16
+  - first:
+      213: 5864993785365411236
+    second: normal-monster_17
+  - first:
+      213: 7597363883095179576
+    second: normal-monster_18
+  - first:
+      213: -3461766554513759717
+    second: normal-monster_19
+  - first:
+      213: -9160886030345335536
+    second: normal-monster_20
+  - first:
+      213: 8585967341106197485
+    second: normal-monster_21
+  - first:
+      213: -2786626673375834349
+    second: normal-monster_22
+  - first:
+      213: 7269875553583545796
+    second: normal-monster_23
+  - first:
+      213: -7149270767573313348
+    second: normal-monster_24
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -481,9 +556,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 857
-        width: 120
-        height: 122
+        y: 858
+        width: 125
+        height: 120
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -587,8 +662,8 @@ TextureImporter:
         serializedVersion: 2
         x: 259
         y: 646
-        width: 128
-        height: 127
+        width: 125
+        height: 120
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1239,7 +1314,7 @@ TextureImporter:
         x: 392
         y: 628
         width: 120
-        height: 116
+        height: 120
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1270,6 +1345,27 @@ TextureImporter:
       bones: []
       spriteID: 79391adc98202f830800000000000000
       internalID: 4103345001371636631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal-monster_38
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 489
+        width: 71
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a200e80526e49d6e0800000000000000
+      internalID: -1812331190874669014
       vertices: []
       indices: 
       edges: []

@@ -70,7 +70,14 @@ public class LittleSisterAttack : MonoBehaviour
                 other.transform.position.y + difference.y    
             );
 
-            other.gameObject.GetComponent<Bee>().TakeDamage(attackDamage);
+            if (other.gameObject.GetComponent<Bee>() != null)
+            {
+                other.gameObject.GetComponent<Bee>().TakeDamage(attackDamage);
+            }
+            if (other.gameObject.GetComponent<NormalMonster>() != null)
+            {
+                other.gameObject.GetComponent<NormalMonster>().TakeDamage(attackDamage);
+            }
         }
     }
 }
